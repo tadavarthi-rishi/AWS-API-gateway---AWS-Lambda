@@ -7,4 +7,4 @@ COPY ./target/AWS-Lambda-ApiGateway.jar /app
 # Expose the port the Spring Boot application will run on
 EXPOSE 8080
 # Command to run the application
-CMD ["java", "-jar", "AWS-Lambda-ApiGateway.jar"]
+CMD ["java", "-jar", "AWS-Lambda-ApiGateway-1.0-SNAPSHOT.jar"]
