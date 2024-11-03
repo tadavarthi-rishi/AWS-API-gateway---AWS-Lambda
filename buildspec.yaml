@@ -35,4 +35,4 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/AWS-Lambda-ApiGateway.jar
+    - target/AWS-Lambda-ApiGateway-1.0-SNAPSHOT.jar
