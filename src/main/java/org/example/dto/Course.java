@@ -12,4 +12,9 @@ public class Course {
     private int id;
     private String name;
     private double price;
+
+    public int getId() {
+        return id;
+    }
 }
+
